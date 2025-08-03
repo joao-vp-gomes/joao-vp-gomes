@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**joao-vp-gomes/joao-vp-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I’m João Gomes / @joao-vp-gomes  
+👀 Interested in software engineering and game development  
+🌱 Currently learning:  
+    - Java  
+    - Python
+    - Databases  
+💞️ Looking to collaborate on software engineering projects  
+📫 How to reach me: joaovpgomes@protonmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: There's a head attached to my neck and I'm *in* it.
