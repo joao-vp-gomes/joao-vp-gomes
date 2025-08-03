@@ -3,8 +3,8 @@
 🌱 Currently learning:  
     - Java  
     - Python
-    - Databases  
+    - Databases
 💞️ Looking to collaborate on software engineering projects  
-📫 How to reach me: joaovpgomes@protonmail.com
+📫 How to reach me: joaovpgomes@protonmail.com 
 😄 Pronouns: He/Him
 ⚡ Fun fact: There's a head attached to my neck and I'm *in* it.
