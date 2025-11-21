@@ -1,8 +1,6 @@
 - 👋 Hi, I’m João Gomes / @joao-vp-gomes
-- 👀 I’m interested in software engineering and game development 
-- 🌱 I’m currently learning:
-  - Java
-  - Python
+- 👀 I’m interested in software engineering, web development and game development 
+- 🌱 I’m currently learning: HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on software engineering projects
 - 📫 How to reach me: joaovpgomes@protonmail.com
 - 😄 Pronouns: He/Him
